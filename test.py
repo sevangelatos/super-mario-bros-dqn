@@ -28,5 +28,5 @@ def test(environment, action_space, iteration):
             print(total_reward)
             break
 
-    env.close()
+    #env.close()
     return flag
